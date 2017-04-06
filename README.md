@@ -1,6 +1,6 @@
 # Heuristics
 
-This project implements some heuristics to the enhance the bioportal dictionary. It adds new concepts that have more chances to matche.
+This project implements some heuristics to enhance the bioportal dictionary. It adds new concepts that have more chances to match.
 For example:
 
 ABSENCE CONGéNITALE DE LA VESSIE ET DE L'URèTRE =>
